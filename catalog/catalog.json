@@ -1,0 +1,2021 @@
+[
+  {
+    "id": "prod_0001",
+    "name": "Stainless Steel Electric Kettle 1.7L",
+    "category": "kitchen",
+    "price": 7.99,
+    "currency": "USD",
+    "brand": "KitchenWave",
+    "rating": 4.6,
+    "tags": [
+      "kitchen",
+      "kitchenwave",
+      "stainless",
+      "steel",
+      "electric",
+      "kettle"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0001/800/600"
+    ],
+    "description": "Stainless Steel Electric Kettle 1.7L by KitchenWave. Category: kitchen. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0002",
+    "name": "Nonstick Frying Pan 10\"",
+    "category": "kitchen",
+    "price": 13.47,
+    "currency": "USD",
+    "brand": "ChefMaster",
+    "rating": 4.6,
+    "tags": [
+      "kitchen",
+      "chefmaster",
+      "nonstick",
+      "frying",
+      "pan",
+      "10"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0002/800/600"
+    ],
+    "description": "Nonstick Frying Pan 10\" by ChefMaster. Category: kitchen. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0003",
+    "name": "Bamboo Cutting Board",
+    "category": "kitchen",
+    "price": 18.84,
+    "currency": "USD",
+    "brand": "ChefMaster",
+    "rating": 3.9,
+    "tags": [
+      "kitchen",
+      "chefmaster",
+      "bamboo",
+      "cutting",
+      "board"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0003/800/600"
+    ],
+    "description": "Bamboo Cutting Board by ChefMaster. Category: kitchen. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0004",
+    "name": "Chef Knife 8\"",
+    "category": "kitchen",
+    "price": 20.57,
+    "currency": "USD",
+    "brand": "ChefMaster",
+    "rating": 3.9,
+    "tags": [
+      "kitchen",
+      "chefmaster",
+      "chef",
+      "knife",
+      "8"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0004/800/600"
+    ],
+    "description": "Chef Knife 8\" by ChefMaster. Category: kitchen. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0005",
+    "name": "Measuring Cup Set (5pc)",
+    "category": "kitchen",
+    "price": 22.35,
+    "currency": "USD",
+    "brand": "HomePro",
+    "rating": 3.7,
+    "tags": [
+      "kitchen",
+      "homepro",
+      "measuring",
+      "cup",
+      "set",
+      "5pc"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0005/800/600"
+    ],
+    "description": "Measuring Cup Set (5pc) by HomePro. Category: kitchen. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0006",
+    "name": "Mixing Bowl Set (3pc)",
+    "category": "kitchen",
+    "price": 26.71,
+    "currency": "USD",
+    "brand": "KitchenWave",
+    "rating": 4.7,
+    "tags": [
+      "kitchen",
+      "kitchenwave",
+      "mixing",
+      "bowl",
+      "set",
+      "3pc"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0006/800/600"
+    ],
+    "description": "Mixing Bowl Set (3pc) by KitchenWave. Category: kitchen. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0007",
+    "name": "2-Slice Toaster",
+    "category": "kitchen",
+    "price": 31.47,
+    "currency": "USD",
+    "brand": "KitchenWave",
+    "rating": 4.4,
+    "tags": [
+      "kitchen",
+      "kitchenwave",
+      "2-slice",
+      "toaster"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0007/800/600"
+    ],
+    "description": "2-Slice Toaster by KitchenWave. Category: kitchen. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0008",
+    "name": "Personal Blender 600W",
+    "category": "kitchen",
+    "price": 36.51,
+    "currency": "USD",
+    "brand": "ChefMaster",
+    "rating": 4.4,
+    "tags": [
+      "kitchen",
+      "chefmaster",
+      "personal",
+      "blender",
+      "600w"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0008/800/600"
+    ],
+    "description": "Personal Blender 600W by ChefMaster. Category: kitchen. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0009",
+    "name": "Silicone Spatula Set (4pc)",
+    "category": "kitchen",
+    "price": 40.95,
+    "currency": "USD",
+    "brand": "KitchenWave",
+    "rating": 4.7,
+    "tags": [
+      "kitchen",
+      "kitchenwave",
+      "silicone",
+      "spatula",
+      "set",
+      "4pc"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0009/800/600"
+    ],
+    "description": "Silicone Spatula Set (4pc) by KitchenWave. Category: kitchen. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0010",
+    "name": "Dish Drying Rack",
+    "category": "kitchen",
+    "price": 45.37,
+    "currency": "USD",
+    "brand": "KitchenWave",
+    "rating": 4.9,
+    "tags": [
+      "kitchen",
+      "kitchenwave",
+      "dish",
+      "drying",
+      "rack"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0010/800/600"
+    ],
+    "description": "Dish Drying Rack by KitchenWave. Category: kitchen. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0011",
+    "name": "Upright Vacuum Cleaner",
+    "category": "cleaning",
+    "price": 2.49,
+    "currency": "USD",
+    "brand": "SparklePro",
+    "rating": 4.7,
+    "tags": [
+      "cleaning",
+      "sparklepro",
+      "upright",
+      "vacuum",
+      "cleaner"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0011/800/600"
+    ],
+    "description": "Upright Vacuum Cleaner by SparklePro. Category: cleaning. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0012",
+    "name": "Microfiber Mop",
+    "category": "cleaning",
+    "price": 11.99,
+    "currency": "USD",
+    "brand": "EcoClean",
+    "rating": 3.7,
+    "tags": [
+      "cleaning",
+      "ecoclean",
+      "microfiber",
+      "mop"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0012/800/600"
+    ],
+    "description": "Microfiber Mop by EcoClean. Category: cleaning. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0013",
+    "name": "Angled Broom",
+    "category": "cleaning",
+    "price": 17.48,
+    "currency": "USD",
+    "brand": "CleanGen",
+    "rating": 4.2,
+    "tags": [
+      "cleaning",
+      "cleangen",
+      "angled",
+      "broom"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0013/800/600"
+    ],
+    "description": "Angled Broom by CleanGen. Category: cleaning. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0014",
+    "name": "Dustpan with Brush",
+    "category": "cleaning",
+    "price": 23.17,
+    "currency": "USD",
+    "brand": "CleanGen",
+    "rating": 4.4,
+    "tags": [
+      "cleaning",
+      "cleangen",
+      "dustpan",
+      "with",
+      "brush"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0014/800/600"
+    ],
+    "description": "Dustpan with Brush by CleanGen. Category: cleaning. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0015",
+    "name": "Microfiber Cloths (8pk)",
+    "category": "cleaning",
+    "price": 27.65,
+    "currency": "USD",
+    "brand": "EcoClean",
+    "rating": 4.7,
+    "tags": [
+      "cleaning",
+      "ecoclean",
+      "microfiber",
+      "cloths",
+      "8pk"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0015/800/600"
+    ],
+    "description": "Microfiber Cloths (8pk) by EcoClean. Category: cleaning. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0016",
+    "name": "All-Purpose Cleaner 1L",
+    "category": "cleaning",
+    "price": 35.92,
+    "currency": "USD",
+    "brand": "CleanGen",
+    "rating": 4.6,
+    "tags": [
+      "cleaning",
+      "cleangen",
+      "all-purpose",
+      "cleaner",
+      "1l"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0016/800/600"
+    ],
+    "description": "All-Purpose Cleaner 1L by CleanGen. Category: cleaning. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0017",
+    "name": "Dish Soap 750ml",
+    "category": "cleaning",
+    "price": 42.84,
+    "currency": "USD",
+    "brand": "SparklePro",
+    "rating": 4.6,
+    "tags": [
+      "cleaning",
+      "sparklepro",
+      "dish",
+      "soap",
+      "750ml"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0017/800/600"
+    ],
+    "description": "Dish Soap 750ml by SparklePro. Category: cleaning. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0018",
+    "name": "Scrub Sponges (6pk)",
+    "category": "cleaning",
+    "price": 48.4,
+    "currency": "USD",
+    "brand": "EcoClean",
+    "rating": 3.8,
+    "tags": [
+      "cleaning",
+      "ecoclean",
+      "scrub",
+      "sponges",
+      "6pk"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0018/800/600"
+    ],
+    "description": "Scrub Sponges (6pk) by EcoClean. Category: cleaning. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0019",
+    "name": "Tall Kitchen Trash Bags (45ct)",
+    "category": "cleaning",
+    "price": 54.76,
+    "currency": "USD",
+    "brand": "SparklePro",
+    "rating": 4.3,
+    "tags": [
+      "cleaning",
+      "sparklepro",
+      "tall",
+      "kitchen",
+      "trash",
+      "bags",
+      "45ct"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0019/800/600"
+    ],
+    "description": "Tall Kitchen Trash Bags (45ct) by SparklePro. Category: cleaning. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0020",
+    "name": "Toilet Brush with Holder",
+    "category": "cleaning",
+    "price": 61.08,
+    "currency": "USD",
+    "brand": "SparklePro",
+    "rating": 4.2,
+    "tags": [
+      "cleaning",
+      "sparklepro",
+      "toilet",
+      "brush",
+      "with",
+      "holder"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0020/800/600"
+    ],
+    "description": "Toilet Brush with Holder by SparklePro. Category: cleaning. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0021",
+    "name": "Bath Towel (2pk)",
+    "category": "bathroom",
+    "price": 2.99,
+    "currency": "USD",
+    "brand": "FreshNest",
+    "rating": 4.2,
+    "tags": [
+      "bathroom",
+      "freshnest",
+      "bath",
+      "towel",
+      "2pk"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0021/800/600"
+    ],
+    "description": "Bath Towel (2pk) by FreshNest. Category: bathroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0022",
+    "name": "Hand Towel (2pk)",
+    "category": "bathroom",
+    "price": 7.92,
+    "currency": "USD",
+    "brand": "AquaPure",
+    "rating": 4.1,
+    "tags": [
+      "bathroom",
+      "aquapure",
+      "hand",
+      "towel",
+      "2pk"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0022/800/600"
+    ],
+    "description": "Hand Towel (2pk) by AquaPure. Category: bathroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0023",
+    "name": "Shower Curtain (Waterproof)",
+    "category": "bathroom",
+    "price": 13.54,
+    "currency": "USD",
+    "brand": "AquaPure",
+    "rating": 4.5,
+    "tags": [
+      "bathroom",
+      "aquapure",
+      "shower",
+      "curtain",
+      "waterproof"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0023/800/600"
+    ],
+    "description": "Shower Curtain (Waterproof) by AquaPure. Category: bathroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0024",
+    "name": "Bath Mat (Memory Foam)",
+    "category": "bathroom",
+    "price": 17.6,
+    "currency": "USD",
+    "brand": "FreshNest",
+    "rating": 4.6,
+    "tags": [
+      "bathroom",
+      "freshnest",
+      "bath",
+      "mat",
+      "memory",
+      "foam"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0024/800/600"
+    ],
+    "description": "Bath Mat (Memory Foam) by FreshNest. Category: bathroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0025",
+    "name": "Soap Dispenser 300ml",
+    "category": "bathroom",
+    "price": 22.15,
+    "currency": "USD",
+    "brand": "AquaPure",
+    "rating": 4.1,
+    "tags": [
+      "bathroom",
+      "aquapure",
+      "soap",
+      "dispenser",
+      "300ml"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0025/800/600"
+    ],
+    "description": "Soap Dispenser 300ml by AquaPure. Category: bathroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0026",
+    "name": "Toothbrush Holder (4-slot)",
+    "category": "bathroom",
+    "price": 26.88,
+    "currency": "USD",
+    "brand": "FreshNest",
+    "rating": 4.6,
+    "tags": [
+      "bathroom",
+      "freshnest",
+      "toothbrush",
+      "holder",
+      "4-slot"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0026/800/600"
+    ],
+    "description": "Toothbrush Holder (4-slot) by FreshNest. Category: bathroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0027",
+    "name": "Toilet Paper (12 rolls)",
+    "category": "bathroom",
+    "price": 30.86,
+    "currency": "USD",
+    "brand": "FreshNest",
+    "rating": 4.6,
+    "tags": [
+      "bathroom",
+      "freshnest",
+      "toilet",
+      "paper",
+      "12",
+      "rolls"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0027/800/600"
+    ],
+    "description": "Toilet Paper (12 rolls) by FreshNest. Category: bathroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0028",
+    "name": "Shampoo 500ml",
+    "category": "bathroom",
+    "price": 35.14,
+    "currency": "USD",
+    "brand": "FreshNest",
+    "rating": 4.3,
+    "tags": [
+      "bathroom",
+      "freshnest",
+      "shampoo",
+      "500ml"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0028/800/600"
+    ],
+    "description": "Shampoo 500ml by FreshNest. Category: bathroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0029",
+    "name": "Conditioner 500ml",
+    "category": "bathroom",
+    "price": 39.66,
+    "currency": "USD",
+    "brand": "FreshNest",
+    "rating": 4.5,
+    "tags": [
+      "bathroom",
+      "freshnest",
+      "conditioner",
+      "500ml"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0029/800/600"
+    ],
+    "description": "Conditioner 500ml by FreshNest. Category: bathroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0030",
+    "name": "Body Wash 700ml",
+    "category": "bathroom",
+    "price": 43.83,
+    "currency": "USD",
+    "brand": "AquaPure",
+    "rating": 4.6,
+    "tags": [
+      "bathroom",
+      "aquapure",
+      "body",
+      "wash",
+      "700ml"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0030/800/600"
+    ],
+    "description": "Body Wash 700ml by AquaPure. Category: bathroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0031",
+    "name": "Laundry Detergent 2L",
+    "category": "laundry",
+    "price": 2.49,
+    "currency": "USD",
+    "brand": "BreezeMax",
+    "rating": 4.1,
+    "tags": [
+      "laundry",
+      "breezemax",
+      "laundry",
+      "detergent",
+      "2l"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0031/800/600"
+    ],
+    "description": "Laundry Detergent 2L by BreezeMax. Category: laundry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0032",
+    "name": "Fabric Softener 1L",
+    "category": "laundry",
+    "price": 10.28,
+    "currency": "USD",
+    "brand": "FreshFold",
+    "rating": 3.8,
+    "tags": [
+      "laundry",
+      "freshfold",
+      "fabric",
+      "softener",
+      "1l"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0032/800/600"
+    ],
+    "description": "Fabric Softener 1L by FreshFold. Category: laundry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0033",
+    "name": "Folding Drying Rack",
+    "category": "laundry",
+    "price": 18.69,
+    "currency": "USD",
+    "brand": "FreshFold",
+    "rating": 4.6,
+    "tags": [
+      "laundry",
+      "freshfold",
+      "folding",
+      "drying",
+      "rack"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0033/800/600"
+    ],
+    "description": "Folding Drying Rack by FreshFold. Category: laundry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0034",
+    "name": "Laundry Basket 50L",
+    "category": "laundry",
+    "price": 26.51,
+    "currency": "USD",
+    "brand": "BreezeMax",
+    "rating": 4.4,
+    "tags": [
+      "laundry",
+      "breezemax",
+      "laundry",
+      "basket",
+      "50l"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0034/800/600"
+    ],
+    "description": "Laundry Basket 50L by BreezeMax. Category: laundry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0035",
+    "name": "Stain Remover Spray",
+    "category": "laundry",
+    "price": 34.52,
+    "currency": "USD",
+    "brand": "BreezeMax",
+    "rating": 4.5,
+    "tags": [
+      "laundry",
+      "breezemax",
+      "stain",
+      "remover",
+      "spray"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0035/800/600"
+    ],
+    "description": "Stain Remover Spray by BreezeMax. Category: laundry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0036",
+    "name": "Lint Roller (2pk)",
+    "category": "laundry",
+    "price": 42.39,
+    "currency": "USD",
+    "brand": "BreezeMax",
+    "rating": 4.4,
+    "tags": [
+      "laundry",
+      "breezemax",
+      "lint",
+      "roller",
+      "2pk"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0036/800/600"
+    ],
+    "description": "Lint Roller (2pk) by BreezeMax. Category: laundry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0037",
+    "name": "Ironing Board",
+    "category": "laundry",
+    "price": 50.11,
+    "currency": "USD",
+    "brand": "SoftCare",
+    "rating": 4.4,
+    "tags": [
+      "laundry",
+      "softcare",
+      "ironing",
+      "board"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0037/800/600"
+    ],
+    "description": "Ironing Board by SoftCare. Category: laundry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0038",
+    "name": "Steam Iron 1600W",
+    "category": "laundry",
+    "price": 58.29,
+    "currency": "USD",
+    "brand": "SoftCare",
+    "rating": 4.7,
+    "tags": [
+      "laundry",
+      "softcare",
+      "steam",
+      "iron",
+      "1600w"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0038/800/600"
+    ],
+    "description": "Steam Iron 1600W by SoftCare. Category: laundry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0039",
+    "name": "Clothespins (50ct)",
+    "category": "laundry",
+    "price": 66.67,
+    "currency": "USD",
+    "brand": "BreezeMax",
+    "rating": 4.8,
+    "tags": [
+      "laundry",
+      "breezemax",
+      "clothespins",
+      "50ct"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0039/800/600"
+    ],
+    "description": "Clothespins (50ct) by BreezeMax. Category: laundry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0040",
+    "name": "Chlorine Bleach 1L",
+    "category": "laundry",
+    "price": 74.84,
+    "currency": "USD",
+    "brand": "SoftCare",
+    "rating": 3.9,
+    "tags": [
+      "laundry",
+      "softcare",
+      "chlorine",
+      "bleach",
+      "1l"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0040/800/600"
+    ],
+    "description": "Chlorine Bleach 1L by SoftCare. Category: laundry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0041",
+    "name": "LED Bulb 9W (4pk)",
+    "category": "electronics",
+    "price": 4.99,
+    "currency": "USD",
+    "brand": "BrightLite",
+    "rating": 4.9,
+    "tags": [
+      "electronics",
+      "brightlite",
+      "led",
+      "bulb",
+      "9w",
+      "4pk"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0041/800/600"
+    ],
+    "description": "LED Bulb 9W (4pk) by BrightLite. Category: electronics. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0042",
+    "name": "12ft Extension Cord",
+    "category": "electronics",
+    "price": 11.63,
+    "currency": "USD",
+    "brand": "BrightLite",
+    "rating": 4.6,
+    "tags": [
+      "electronics",
+      "brightlite",
+      "12ft",
+      "extension",
+      "cord"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0042/800/600"
+    ],
+    "description": "12ft Extension Cord by BrightLite. Category: electronics. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0043",
+    "name": "6-Outlet Power Strip",
+    "category": "electronics",
+    "price": 19.13,
+    "currency": "USD",
+    "brand": "SafeGuard",
+    "rating": 4.4,
+    "tags": [
+      "electronics",
+      "safeguard",
+      "6-outlet",
+      "power",
+      "strip"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0043/800/600"
+    ],
+    "description": "6-Outlet Power Strip by SafeGuard. Category: electronics. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0044",
+    "name": "AA Batteries (20ct)",
+    "category": "electronics",
+    "price": 26.72,
+    "currency": "USD",
+    "brand": "Voltify",
+    "rating": 4.7,
+    "tags": [
+      "electronics",
+      "voltify",
+      "aa",
+      "batteries",
+      "20ct"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0044/800/600"
+    ],
+    "description": "AA Batteries (20ct) by Voltify. Category: electronics. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0045",
+    "name": "AAA Batteries (20ct)",
+    "category": "electronics",
+    "price": 33.87,
+    "currency": "USD",
+    "brand": "BrightLite",
+    "rating": 4.7,
+    "tags": [
+      "electronics",
+      "brightlite",
+      "aaa",
+      "batteries",
+      "20ct"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0045/800/600"
+    ],
+    "description": "AAA Batteries (20ct) by BrightLite. Category: electronics. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0046",
+    "name": "Surge Protector 8-Outlet",
+    "category": "electronics",
+    "price": 41.25,
+    "currency": "USD",
+    "brand": "SafeGuard",
+    "rating": 4.8,
+    "tags": [
+      "electronics",
+      "safeguard",
+      "surge",
+      "protector",
+      "8-outlet"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0046/800/600"
+    ],
+    "description": "Surge Protector 8-Outlet by SafeGuard. Category: electronics. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0047",
+    "name": "Dual USB Wall Charger",
+    "category": "electronics",
+    "price": 48.86,
+    "currency": "USD",
+    "brand": "Voltify",
+    "rating": 4.4,
+    "tags": [
+      "electronics",
+      "voltify",
+      "dual",
+      "usb",
+      "wall",
+      "charger"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0047/800/600"
+    ],
+    "description": "Dual USB Wall Charger by Voltify. Category: electronics. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0048",
+    "name": "Wi‑Fi Smart Plug",
+    "category": "electronics",
+    "price": 56.08,
+    "currency": "USD",
+    "brand": "SafeGuard",
+    "rating": 4.1,
+    "tags": [
+      "electronics",
+      "safeguard",
+      "wi‑fi",
+      "smart",
+      "plug"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0048/800/600"
+    ],
+    "description": "Wi‑Fi Smart Plug by SafeGuard. Category: electronics. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0049",
+    "name": "Smoke & CO Detector",
+    "category": "electronics",
+    "price": 63.78,
+    "currency": "USD",
+    "brand": "Voltify",
+    "rating": 4.6,
+    "tags": [
+      "electronics",
+      "voltify",
+      "smoke",
+      "&",
+      "co",
+      "detector"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0049/800/600"
+    ],
+    "description": "Smoke & CO Detector by Voltify. Category: electronics. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0050",
+    "name": "LED Flashlight",
+    "category": "electronics",
+    "price": 69.99,
+    "currency": "USD",
+    "brand": "BrightLite",
+    "rating": 4.4,
+    "tags": [
+      "electronics",
+      "brightlite",
+      "led",
+      "flashlight"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0050/800/600"
+    ],
+    "description": "LED Flashlight by BrightLite. Category: electronics. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0051",
+    "name": "Spiral Notebook A5",
+    "category": "office",
+    "price": 0.99,
+    "currency": "USD",
+    "brand": "DeskWorks",
+    "rating": 4.1,
+    "tags": [
+      "office",
+      "deskworks",
+      "spiral",
+      "notebook",
+      "a5"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0051/800/600"
+    ],
+    "description": "Spiral Notebook A5 by DeskWorks. Category: office. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0052",
+    "name": "Ballpoint Pens (10pk)",
+    "category": "office",
+    "price": 5.45,
+    "currency": "USD",
+    "brand": "OfficeMate",
+    "rating": 3.8,
+    "tags": [
+      "office",
+      "officemate",
+      "ballpoint",
+      "pens",
+      "10pk"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0052/800/600"
+    ],
+    "description": "Ballpoint Pens (10pk) by OfficeMate. Category: office. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0053",
+    "name": "Metal Stapler",
+    "category": "office",
+    "price": 10.01,
+    "currency": "USD",
+    "brand": "DeskWorks",
+    "rating": 4.6,
+    "tags": [
+      "office",
+      "deskworks",
+      "metal",
+      "stapler"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0053/800/600"
+    ],
+    "description": "Metal Stapler by DeskWorks. Category: office. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0054",
+    "name": "Paper Clips (200ct)",
+    "category": "office",
+    "price": 14.47,
+    "currency": "USD",
+    "brand": "OfficeMate",
+    "rating": 4.7,
+    "tags": [
+      "office",
+      "officemate",
+      "paper",
+      "clips",
+      "200ct"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0054/800/600"
+    ],
+    "description": "Paper Clips (200ct) by OfficeMate. Category: office. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0055",
+    "name": "Printer Paper (500 sheets)",
+    "category": "office",
+    "price": 18.84,
+    "currency": "USD",
+    "brand": "OfficeMate",
+    "rating": 4.5,
+    "tags": [
+      "office",
+      "officemate",
+      "printer",
+      "paper",
+      "500",
+      "sheets"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0055/800/600"
+    ],
+    "description": "Printer Paper (500 sheets) by OfficeMate. Category: office. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0056",
+    "name": "Stainless Scissors",
+    "category": "office",
+    "price": 23.43,
+    "currency": "USD",
+    "brand": "DeskWorks",
+    "rating": 4.2,
+    "tags": [
+      "office",
+      "deskworks",
+      "stainless",
+      "scissors"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0056/800/600"
+    ],
+    "description": "Stainless Scissors by DeskWorks. Category: office. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0057",
+    "name": "Tape Dispenser",
+    "category": "office",
+    "price": 27.85,
+    "currency": "USD",
+    "brand": "PaperPlus",
+    "rating": 4.4,
+    "tags": [
+      "office",
+      "paperplus",
+      "tape",
+      "dispenser"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0057/800/600"
+    ],
+    "description": "Tape Dispenser by PaperPlus. Category: office. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0058",
+    "name": "Sticky Notes (12 pads)",
+    "category": "office",
+    "price": 32.42,
+    "currency": "USD",
+    "brand": "PaperPlus",
+    "rating": 4.6,
+    "tags": [
+      "office",
+      "paperplus",
+      "sticky",
+      "notes",
+      "12",
+      "pads"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0058/800/600"
+    ],
+    "description": "Sticky Notes (12 pads) by PaperPlus. Category: office. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0059",
+    "name": "Adjustable Desk Lamp",
+    "category": "office",
+    "price": 36.86,
+    "currency": "USD",
+    "brand": "PaperPlus",
+    "rating": 3.8,
+    "tags": [
+      "office",
+      "paperplus",
+      "adjustable",
+      "desk",
+      "lamp"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0059/800/600"
+    ],
+    "description": "Adjustable Desk Lamp by PaperPlus. Category: office. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0060",
+    "name": "Drawer Organizer Tray",
+    "category": "office",
+    "price": 41.49,
+    "currency": "USD",
+    "brand": "DeskWorks",
+    "rating": 4.4,
+    "tags": [
+      "office",
+      "deskworks",
+      "drawer",
+      "organizer",
+      "tray"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0060/800/600"
+    ],
+    "description": "Drawer Organizer Tray by DeskWorks. Category: office. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0061",
+    "name": "Expandable Garden Hose 50ft",
+    "category": "outdoors",
+    "price": 7.99,
+    "currency": "USD",
+    "brand": "GardenJoy",
+    "rating": 4.9,
+    "tags": [
+      "outdoors",
+      "gardenjoy",
+      "expandable",
+      "garden",
+      "hose",
+      "50ft"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0061/800/600"
+    ],
+    "description": "Expandable Garden Hose 50ft by GardenJoy. Category: outdoors. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0062",
+    "name": "Metal Watering Can 1.5gal",
+    "category": "outdoors",
+    "price": 14.89,
+    "currency": "USD",
+    "brand": "GardenJoy",
+    "rating": 4.7,
+    "tags": [
+      "outdoors",
+      "gardenjoy",
+      "metal",
+      "watering",
+      "can",
+      "1.5gal"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0062/800/600"
+    ],
+    "description": "Metal Watering Can 1.5gal by GardenJoy. Category: outdoors. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0063",
+    "name": "Bypass Pruning Shears",
+    "category": "outdoors",
+    "price": 22.18,
+    "currency": "USD",
+    "brand": "GardenJoy",
+    "rating": 4.8,
+    "tags": [
+      "outdoors",
+      "gardenjoy",
+      "bypass",
+      "pruning",
+      "shears"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0063/800/600"
+    ],
+    "description": "Bypass Pruning Shears by GardenJoy. Category: outdoors. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0064",
+    "name": "Lawn Fertilizer 10lb",
+    "category": "outdoors",
+    "price": 29.54,
+    "currency": "USD",
+    "brand": "TrailWise",
+    "rating": 4.4,
+    "tags": [
+      "outdoors",
+      "trailwise",
+      "lawn",
+      "fertilizer",
+      "10lb"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0064/800/600"
+    ],
+    "description": "Lawn Fertilizer 10lb by TrailWise. Category: outdoors. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0065",
+    "name": "BBQ Grill Brush",
+    "category": "outdoors",
+    "price": 37.18,
+    "currency": "USD",
+    "brand": "SunYard",
+    "rating": 4.5,
+    "tags": [
+      "outdoors",
+      "sunyard",
+      "bbq",
+      "grill",
+      "brush"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0065/800/600"
+    ],
+    "description": "BBQ Grill Brush by SunYard. Category: outdoors. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0066",
+    "name": "Charcoal Briquettes 15lb",
+    "category": "outdoors",
+    "price": 44.77,
+    "currency": "USD",
+    "brand": "SunYard",
+    "rating": 4.2,
+    "tags": [
+      "outdoors",
+      "sunyard",
+      "charcoal",
+      "briquettes",
+      "15lb"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0066/800/600"
+    ],
+    "description": "Charcoal Briquettes 15lb by SunYard. Category: outdoors. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0067",
+    "name": "Solar Patio String Lights",
+    "category": "outdoors",
+    "price": 52.38,
+    "currency": "USD",
+    "brand": "SunYard",
+    "rating": 4.7,
+    "tags": [
+      "outdoors",
+      "sunyard",
+      "solar",
+      "patio",
+      "string",
+      "lights"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0067/800/600"
+    ],
+    "description": "Solar Patio String Lights by SunYard. Category: outdoors. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0068",
+    "name": "Citronella Candles (4pk)",
+    "category": "outdoors",
+    "price": 59.69,
+    "currency": "USD",
+    "brand": "TrailWise",
+    "rating": 4.2,
+    "tags": [
+      "outdoors",
+      "trailwise",
+      "citronella",
+      "candles",
+      "4pk"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0068/800/600"
+    ],
+    "description": "Citronella Candles (4pk) by TrailWise. Category: outdoors. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0069",
+    "name": "Insulated Cooler 28qt",
+    "category": "outdoors",
+    "price": 67.43,
+    "currency": "USD",
+    "brand": "SunYard",
+    "rating": 4.8,
+    "tags": [
+      "outdoors",
+      "sunyard",
+      "insulated",
+      "cooler",
+      "28qt"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0069/800/600"
+    ],
+    "description": "Insulated Cooler 28qt by SunYard. Category: outdoors. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0070",
+    "name": "Folding Camp Chair",
+    "category": "outdoors",
+    "price": 74.91,
+    "currency": "USD",
+    "brand": "GardenJoy",
+    "rating": 4.6,
+    "tags": [
+      "outdoors",
+      "gardenjoy",
+      "folding",
+      "camp",
+      "chair"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0070/800/600"
+    ],
+    "description": "Folding Camp Chair by GardenJoy. Category: outdoors. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0071",
+    "name": "Down-Alternative Pillow (2pk)",
+    "category": "bedroom",
+    "price": 7.99,
+    "currency": "USD",
+    "brand": "ComfortNest",
+    "rating": 4.7,
+    "tags": [
+      "bedroom",
+      "comfortnest",
+      "down-alternative",
+      "pillow",
+      "2pk"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0071/800/600"
+    ],
+    "description": "Down-Alternative Pillow (2pk) by ComfortNest. Category: bedroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0072",
+    "name": "Queen Bedsheet Set 4pc",
+    "category": "bedroom",
+    "price": 16.55,
+    "currency": "USD",
+    "brand": "DreamLoom",
+    "rating": 4.2,
+    "tags": [
+      "bedroom",
+      "dreamloom",
+      "queen",
+      "bedsheet",
+      "set",
+      "4pc"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0072/800/600"
+    ],
+    "description": "Queen Bedsheet Set 4pc by DreamLoom. Category: bedroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0073",
+    "name": "Duvet Cover Queen",
+    "category": "bedroom",
+    "price": 24.09,
+    "currency": "USD",
+    "brand": "ComfortNest",
+    "rating": 4.5,
+    "tags": [
+      "bedroom",
+      "comfortnest",
+      "duvet",
+      "cover",
+      "queen"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0073/800/600"
+    ],
+    "description": "Duvet Cover Queen by ComfortNest. Category: bedroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0074",
+    "name": "Mattress Protector Queen",
+    "category": "bedroom",
+    "price": 31.84,
+    "currency": "USD",
+    "brand": "CozyHome",
+    "rating": 4.5,
+    "tags": [
+      "bedroom",
+      "cozyhome",
+      "mattress",
+      "protector",
+      "queen"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0074/800/600"
+    ],
+    "description": "Mattress Protector Queen by CozyHome. Category: bedroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0075",
+    "name": "Digital Alarm Clock",
+    "category": "bedroom",
+    "price": 39.44,
+    "currency": "USD",
+    "brand": "CozyHome",
+    "rating": 4.7,
+    "tags": [
+      "bedroom",
+      "cozyhome",
+      "digital",
+      "alarm",
+      "clock"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0075/800/600"
+    ],
+    "description": "Digital Alarm Clock by CozyHome. Category: bedroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0076",
+    "name": "Velvet Hangers (50ct)",
+    "category": "bedroom",
+    "price": 47.17,
+    "currency": "USD",
+    "brand": "DreamLoom",
+    "rating": 4.3,
+    "tags": [
+      "bedroom",
+      "dreamloom",
+      "velvet",
+      "hangers",
+      "50ct"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0076/800/600"
+    ],
+    "description": "Velvet Hangers (50ct) by DreamLoom. Category: bedroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0077",
+    "name": "Bedside Table Lamp",
+    "category": "bedroom",
+    "price": 54.76,
+    "currency": "USD",
+    "brand": "ComfortNest",
+    "rating": 4.5,
+    "tags": [
+      "bedroom",
+      "comfortnest",
+      "bedside",
+      "table",
+      "lamp"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0077/800/600"
+    ],
+    "description": "Bedside Table Lamp by ComfortNest. Category: bedroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0078",
+    "name": "Blackout Curtains 52x84",
+    "category": "bedroom",
+    "price": 62.27,
+    "currency": "USD",
+    "brand": "DreamLoom",
+    "rating": 4.9,
+    "tags": [
+      "bedroom",
+      "dreamloom",
+      "blackout",
+      "curtains",
+      "52x84"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0078/800/600"
+    ],
+    "description": "Blackout Curtains 52x84 by DreamLoom. Category: bedroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0079",
+    "name": "Underbed Storage Bins (2)",
+    "category": "bedroom",
+    "price": 69.92,
+    "currency": "USD",
+    "brand": "ComfortNest",
+    "rating": 4.5,
+    "tags": [
+      "bedroom",
+      "comfortnest",
+      "underbed",
+      "storage",
+      "bins",
+      "2"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0079/800/600"
+    ],
+    "description": "Underbed Storage Bins (2) by ComfortNest. Category: bedroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0080",
+    "name": "Wall Mirror 24x36",
+    "category": "bedroom",
+    "price": 77.49,
+    "currency": "USD",
+    "brand": "CozyHome",
+    "rating": 4.4,
+    "tags": [
+      "bedroom",
+      "cozyhome",
+      "wall",
+      "mirror",
+      "24x36"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0080/800/600"
+    ],
+    "description": "Wall Mirror 24x36 by CozyHome. Category: bedroom. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0081",
+    "name": "Extra Virgin Olive Oil 1L",
+    "category": "pantry",
+    "price": 0.99,
+    "currency": "USD",
+    "brand": "PantryPrime",
+    "rating": 3.9,
+    "tags": [
+      "pantry",
+      "pantryprime",
+      "extra",
+      "virgin",
+      "olive",
+      "oil",
+      "1l"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0081/800/600"
+    ],
+    "description": "Extra Virgin Olive Oil 1L by PantryPrime. Category: pantry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0082",
+    "name": "Long Grain Rice 5lb",
+    "category": "pantry",
+    "price": 3.73,
+    "currency": "USD",
+    "brand": "DailyHarvest",
+    "rating": 4.9,
+    "tags": [
+      "pantry",
+      "dailyharvest",
+      "long",
+      "grain",
+      "rice",
+      "5lb"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0082/800/600"
+    ],
+    "description": "Long Grain Rice 5lb by DailyHarvest. Category: pantry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0083",
+    "name": "Penne Pasta 2lb",
+    "category": "pantry",
+    "price": 6.33,
+    "currency": "USD",
+    "brand": "KitchenWave",
+    "rating": 4.3,
+    "tags": [
+      "pantry",
+      "kitchenwave",
+      "penne",
+      "pasta",
+      "2lb"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0083/800/600"
+    ],
+    "description": "Penne Pasta 2lb by KitchenWave. Category: pantry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0084",
+    "name": "Canned Black Beans (8)",
+    "category": "pantry",
+    "price": 8.92,
+    "currency": "USD",
+    "brand": "PantryPrime",
+    "rating": 4.7,
+    "tags": [
+      "pantry",
+      "pantryprime",
+      "canned",
+      "black",
+      "beans",
+      "8"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0084/800/600"
+    ],
+    "description": "Canned Black Beans (8) by PantryPrime. Category: pantry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0085",
+    "name": "All-Purpose Flour 5lb",
+    "category": "pantry",
+    "price": 11.66,
+    "currency": "USD",
+    "brand": "PantryPrime",
+    "rating": 4.4,
+    "tags": [
+      "pantry",
+      "pantryprime",
+      "all-purpose",
+      "flour",
+      "5lb"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0085/800/600"
+    ],
+    "description": "All-Purpose Flour 5lb by PantryPrime. Category: pantry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0086",
+    "name": "Granulated Sugar 4lb",
+    "category": "pantry",
+    "price": 14.21,
+    "currency": "USD",
+    "brand": "DailyHarvest",
+    "rating": 4.8,
+    "tags": [
+      "pantry",
+      "dailyharvest",
+      "granulated",
+      "sugar",
+      "4lb"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0086/800/600"
+    ],
+    "description": "Granulated Sugar 4lb by DailyHarvest. Category: pantry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0087",
+    "name": "Sea Salt 750g",
+    "category": "pantry",
+    "price": 16.84,
+    "currency": "USD",
+    "brand": "PantryPrime",
+    "rating": 4.7,
+    "tags": [
+      "pantry",
+      "pantryprime",
+      "sea",
+      "salt",
+      "750g"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0087/800/600"
+    ],
+    "description": "Sea Salt 750g by PantryPrime. Category: pantry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0088",
+    "name": "Ground Black Pepper 100g",
+    "category": "pantry",
+    "price": 19.42,
+    "currency": "USD",
+    "brand": "DailyHarvest",
+    "rating": 4.5,
+    "tags": [
+      "pantry",
+      "dailyharvest",
+      "ground",
+      "black",
+      "pepper",
+      "100g"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0088/800/600"
+    ],
+    "description": "Ground Black Pepper 100g by DailyHarvest. Category: pantry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0089",
+    "name": "Medium Roast Coffee 12oz",
+    "category": "pantry",
+    "price": 22.02,
+    "currency": "USD",
+    "brand": "PantryPrime",
+    "rating": 4.4,
+    "tags": [
+      "pantry",
+      "pantryprime",
+      "medium",
+      "roast",
+      "coffee",
+      "12oz"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0089/800/600"
+    ],
+    "description": "Medium Roast Coffee 12oz by PantryPrime. Category: pantry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0090",
+    "name": "Assorted Tea Bags (40)",
+    "category": "pantry",
+    "price": 24.99,
+    "currency": "USD",
+    "brand": "DailyHarvest",
+    "rating": 4.8,
+    "tags": [
+      "pantry",
+      "dailyharvest",
+      "assorted",
+      "tea",
+      "bags",
+      "40"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0090/800/600"
+    ],
+    "description": "Assorted Tea Bags (40) by DailyHarvest. Category: pantry. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0091",
+    "name": "Packing Cubes (5pc)",
+    "category": "travel",
+    "price": 6.99,
+    "currency": "USD",
+    "brand": "PackSmart",
+    "rating": 4.9,
+    "tags": [
+      "travel",
+      "packsmart",
+      "packing",
+      "cubes",
+      "5pc"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0091/800/600"
+    ],
+    "description": "Packing Cubes (5pc) by PackSmart. Category: travel. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0092",
+    "name": "Leakproof Travel Bottles (4)",
+    "category": "travel",
+    "price": 19.49,
+    "currency": "USD",
+    "brand": "TravelGo",
+    "rating": 4.9,
+    "tags": [
+      "travel",
+      "travelgo",
+      "leakproof",
+      "travel",
+      "bottles",
+      "4"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0092/800/600"
+    ],
+    "description": "Leakproof Travel Bottles (4) by TravelGo. Category: travel. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0093",
+    "name": "Memory Foam Neck Pillow",
+    "category": "travel",
+    "price": 31.88,
+    "currency": "USD",
+    "brand": "TravelGo",
+    "rating": 4.1,
+    "tags": [
+      "travel",
+      "travelgo",
+      "memory",
+      "foam",
+      "neck",
+      "pillow"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0093/800/600"
+    ],
+    "description": "Memory Foam Neck Pillow by TravelGo. Category: travel. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0094",
+    "name": "Contoured Sleep Mask",
+    "category": "travel",
+    "price": 44.25,
+    "currency": "USD",
+    "brand": "RoamReady",
+    "rating": 4.2,
+    "tags": [
+      "travel",
+      "roamready",
+      "contoured",
+      "sleep",
+      "mask"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0094/800/600"
+    ],
+    "description": "Contoured Sleep Mask by RoamReady. Category: travel. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0095",
+    "name": "Noise-Reducing Earplugs (12)",
+    "category": "travel",
+    "price": 56.86,
+    "currency": "USD",
+    "brand": "RoamReady",
+    "rating": 3.9,
+    "tags": [
+      "travel",
+      "roamready",
+      "noise-reducing",
+      "earplugs",
+      "12"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0095/800/600"
+    ],
+    "description": "Noise-Reducing Earplugs (12) by RoamReady. Category: travel. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0096",
+    "name": "TSA Luggage Locks (2)",
+    "category": "travel",
+    "price": 68.96,
+    "currency": "USD",
+    "brand": "PackSmart",
+    "rating": 4.5,
+    "tags": [
+      "travel",
+      "packsmart",
+      "tsa",
+      "luggage",
+      "locks",
+      "2"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0096/800/600"
+    ],
+    "description": "TSA Luggage Locks (2) by PackSmart. Category: travel. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0097",
+    "name": "Universal Travel Adapter",
+    "category": "travel",
+    "price": 81.54,
+    "currency": "USD",
+    "brand": "TravelGo",
+    "rating": 4.7,
+    "tags": [
+      "travel",
+      "travelgo",
+      "universal",
+      "travel",
+      "adapter"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0097/800/600"
+    ],
+    "description": "Universal Travel Adapter by TravelGo. Category: travel. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0098",
+    "name": "Hanging Toiletry Bag",
+    "category": "travel",
+    "price": 94.19,
+    "currency": "USD",
+    "brand": "RoamReady",
+    "rating": 4.8,
+    "tags": [
+      "travel",
+      "roamready",
+      "hanging",
+      "toiletry",
+      "bag"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0098/800/600"
+    ],
+    "description": "Hanging Toiletry Bag by RoamReady. Category: travel. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0099",
+    "name": "Hard-Shell Carry-On 20\"",
+    "category": "travel",
+    "price": 106.86,
+    "currency": "USD",
+    "brand": "RoamReady",
+    "rating": 4.7,
+    "tags": [
+      "travel",
+      "roamready",
+      "hard-shell",
+      "carry-on",
+      "20"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0099/800/600"
+    ],
+    "description": "Hard-Shell Carry-On 20\" by RoamReady. Category: travel. Durable and reliable everyday household item."
+  },
+  {
+    "id": "prod_0100",
+    "name": "Digital Luggage Scale",
+    "category": "travel",
+    "price": 129.99,
+    "currency": "USD",
+    "brand": "PackSmart",
+    "rating": 4.7,
+    "tags": [
+      "travel",
+      "packsmart",
+      "digital",
+      "luggage",
+      "scale"
+    ],
+    "images": [
+      "https://picsum.photos/seed/prod_0100/800/600"
+    ],
+    "description": "Digital Luggage Scale by PackSmart. Category: travel. Durable and reliable everyday household item."
+  }
+]
