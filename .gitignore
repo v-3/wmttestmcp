@@ -1,0 +1,91 @@
+cat > .gitignore << 'EOF'
+# ───────── Logs ─────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ───────── Dependencies ─────────
+node_modules/
+.pnpm-store/
+
+# If you later add a client/ subapp:
+client/node_modules/
+# And for the MCP server:
+server/node_modules/
+
+# ───────── Build outputs ─────────
+dist/
+build/
+server/dist/
+client/dist/
+# Built widget assets:
+assets/dist/
+assets/.cache/
+*.tsbuildinfo
+
+# ───────── Test/coverage/artifacts ─────────
+coverage/
+.nyc_output/
+.jest/
+.junit/
+*.coverage
+*.lcov
+
+# ───────── Caches & temp ─────────
+.cache/
+.parcel-cache/
+.turbo/
+.next/
+.vercel/
+tmp/
+temp/
+*.tmp
+
+# ───────── Environment files ─────────
+.env
+.env.*
+!/.env.example
+server/.env
+server/.env.*
+!server/.env.example
+
+# ───────── Python (optional tooling) ─────────
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+pip-wheel-metadata/
+.python-version
+
+# ───────── OS / Editor junk ─────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ───────── Archives & packs ─────────
+*.tgz
+*.tar
+*.gz
+*.zip
+
+# ───────── Catalog data (generated) ─────────
+catalog/*.sqlite
+catalog/*.sqlite3
+catalog/*.db
+# keep seed/sample DBs if you add them:
+!catalog/seed*.sqlite*
+!catalog/sample*.sqlite*
+
+# ───────── MCP project-specific ─────────
+# Any alternative widget build folders you might create:
+assets/widgets-build/
+assets/compiled/
+EOF
